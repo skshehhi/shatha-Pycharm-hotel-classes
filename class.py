@@ -54,7 +54,7 @@ class Guest:
 
 
 # Create a Guest object and use its methods
-guest = Guest("Shatha Khaled", "Shathooy979@icloud", "0502010086", "Dubai", 202280069)
+guest = Guest("Shatha Khaled", "Shathooy979@icloud.com", "0502010086", "Dubai", 202280069)
 print(f"Guest Name: {guest.get_name()}")
 print(f"Guest Email: {guest.get_email()}")
 print(f"Guest Phone Number: {guest.get_phone_number()}")
